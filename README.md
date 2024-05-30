@@ -1,4 +1,4 @@
-android 개발종합 1주차 
+android 개발종합 2주차 
 로또번호 생성기
 
 <img src="https://github.com/kdbswo/MyLotto/assets/75184363/14c5d1c4-1f75-41ad-9bd7-34b388bfb16a" weith=300dp height=600dp />
